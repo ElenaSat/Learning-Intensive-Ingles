@@ -15,7 +15,7 @@ Esta guía está diseñada para ayudarte a alcanzar un nivel de inglés conversa
 
 Aquí encontrarás métodos probados para la adquisición rápida de vocabulario, gramática y fluidez conversacional, así como estrategias específicas para el inglés técnico y la preparación de entrevistas.
 
-[Ir a Estrategias de Aprendizaje Intensivo](./estrategias/estrategias_aprendizaje_intensivo.md)
+[Ir a Estrategias de Aprendizaje Intensivo](./intensive_learning_strategies.md)
 
 ---
 
