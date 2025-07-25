@@ -23,7 +23,7 @@ Aquí encontrarás métodos probados para la adquisición rápida de vocabulario
 
 Esta sección contiene enlaces a videos, podcasts y otros materiales auditivos y visuales que facilitarán tu inmersión en el idioma, tanto para el inglés general como para el técnico.
 
-[Ir a Recursos Multimedia](./recursos_multimedia/recursos_multimedia.md)
+[Ir a Recursos Multimedia](./multimedia_resources.md)
 
 ---
 
@@ -31,7 +31,7 @@ Esta sección contiene enlaces a videos, podcasts y otros materiales auditivos y
 
 Documentos gratuitos para afianzar la lectura general en inglés, incluyendo artículos, cuentos cortos y noticias, adaptados a diferentes niveles.
 
-[Ir a Materiales de Lectura General](./lectura_general/lectura_general.md)
+[Ir a Materiales de Lectura General](./reading_materials.md)
 
 ---
 
@@ -39,7 +39,7 @@ Documentos gratuitos para afianzar la lectura general en inglés, incluyendo art
 
 Materiales relacionados con programación, incluyendo .NET Framework, .NET Core, APIs, Principios SOLID, Clean Code, GitHub y GitLab, esenciales para el inglés técnico.
 
-[Ir a Materiales de Lectura Técnica Especializada](./lectura_tecnica/lectura_tecnica.md)
+[Ir a Materiales de Lectura Técnica Especializada](./Materiales de Lectura Técnica Especializada en Inglés.md)
 
 ---
 
