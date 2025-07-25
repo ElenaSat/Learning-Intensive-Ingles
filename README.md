@@ -4,10 +4,10 @@ Esta guía está diseñada para ayudarte a alcanzar un nivel de inglés conversa
 
 ## Contenido
 
-1.  [Estrategias de Aprendizaje Intensivo](#estrategias-de-aprendizaje-intensivo)
-2.  [Recursos Multimedia](#recursos-multimedia)
-3.  [Materiales de Lectura General](#materiales-de-lectura-general)
-4.  [Materiales de Lectura Técnica Especializada](#materiales-de-lectura-técnica-especializada)
+1.  [Estrategias de Aprendizaje Intensivo](#1-estrategias-de-aprendizaje-intensivo)
+2.  [Recursos Multimedia](#2-recursos-multimedia)
+3.  [Materiales de Lectura General](#3-materiales-de-lectura-general)
+4.  [Materiales de Lectura Técnica Especializada](#4-materiales-de-lectura-técnica-especializada)
 
 ---
 
